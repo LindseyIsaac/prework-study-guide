@@ -1,6 +1,7 @@
-# <PreWork Study Guide Webpage>
+#PreWork Study Guide Webpage
 
-## This Prework Study Guide contains notes on HTML, CSS, Git, And JavaScript. It was created for the learning process of coding for students going through their coding Bootcamp Prework.
+##Description
+This Prework Study Guide contains notes on HTML, CSS, Git, And JavaScript. It was created for the learning process of coding for students going through their coding Bootcamp Prework.
 
 
 - The motivation behind this project was to gain a better understanding of the how to of coding.
@@ -19,7 +20,6 @@ To use this Study Guide, you can review notes in each section. If the DevTools c
 
 
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
